@@ -94,7 +94,7 @@ export default function Menu() {
       </StyledMenuButton>
       {open && (
         <MenuFlyout>
-          <MenuItem id="link" href="https://app.oasis-uniswap.herokuapp.com/">
+          <MenuItem id="link" href="https://app-oasis-uniswap.herokuapp.com/">
             <Info size={14} />
             About
           </MenuItem>
@@ -110,7 +110,7 @@ export default function Menu() {
             <MessageCircle size={14} />
             Discord
           </MenuItem>
-          <MenuItem id="link" href="https://info.oasis-uniswap.herokuapp.com/">
+          <MenuItem id="link" href="https://info-oasis-uniswap.herokuapp.com/">
             <PieChart size={14} />
             Analytics
           </MenuItem>
