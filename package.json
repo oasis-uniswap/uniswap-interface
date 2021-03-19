@@ -34,7 +34,7 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
-    "oasis-token-list": "2.0.0",
+    "oasis-token-list": "2.0.1",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
@@ -55,7 +55,7 @@
     "@types/testing-library__cypress": "^5.0.5",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
-    "oasis-uniswap-sdk": "1.0.0",
+    "oasis-uniswap-sdk": "1.0.1",
     "@uniswap/token-lists": "^1.0.0-beta.16",
     "@uniswap/v2-core": "1.0.0",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
