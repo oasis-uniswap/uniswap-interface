@@ -10533,10 +10533,10 @@ oasis-token-list@2.0.1:
   resolved "https://registry.yarnpkg.com/oasis-token-list/-/oasis-token-list-2.0.1.tgz#3f287babffef20c0c009eaedf4ca56e60f2660e1"
   integrity sha512-X5kO8hA8bVt4yiMCRouSHP2MzVz/lCFSxgpIUS7TnaqqdWuh+/Uxq6NG372zyPdHchIM+8uOPSSHJRRzPlXKuw==
 
-oasis-uniswap-sdk@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/oasis-uniswap-sdk/-/oasis-uniswap-sdk-1.0.1.tgz#1af0e0b7b32a7231588100d9a5ec03e7032216b5"
-  integrity sha512-lQ34N2zPzlPQRrREVhP71hRGvcNyrma7BxGRsju1UPu629By7PqCVhBWgP8JfBOAgjHQGPoFaWEhvzSlBd8vcw==
+oasis-uniswap-sdk@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/oasis-uniswap-sdk/-/oasis-uniswap-sdk-1.0.4.tgz#9f57f2f7832d824300a193dbfb8561dc353cb07a"
+  integrity sha512-3Z8zYGUfnTyC+lhGVl3tV8oJTFTa8QLEUoytgLvK/h50OUakGvGZls+wV5T1Z6B6VBoidbj68sr6yln8RVYxHQ==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
