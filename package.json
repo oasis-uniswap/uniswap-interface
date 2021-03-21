@@ -4,6 +4,7 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
+    "node-gyp": "^7.1.2"
   },
   "resolutions": {
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
@@ -34,7 +35,6 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
-    "oasis-token-list": "2.0.1",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
@@ -55,7 +55,6 @@
     "@types/testing-library__cypress": "^5.0.5",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
-    "oasis-uniswap-sdk": "1.0.4",
     "@uniswap/token-lists": "^1.0.0-beta.16",
     "@uniswap/v2-core": "1.0.0",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
@@ -84,6 +83,8 @@
     "lodash.flatmap": "^4.5.0",
     "multicodec": "^2.0.0",
     "multihashes": "^3.0.1",
+    "oasis-token-list": "2.0.1",
+    "oasis-uniswap-sdk": "1.0.12",
     "polished": "^3.3.2",
     "prettier": "^1.17.0",
     "qs": "^6.9.4",
@@ -106,7 +107,7 @@
     "serve": "^11.3.0",
     "start-server-and-test": "^1.11.0",
     "styled-components": "^4.2.0",
-    "web-vitals": "^1.0.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "web-vitals": "^1.0.1"
   }
 }
