@@ -4,7 +4,6 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "node-gyp": "^7.1.2"
   },
   "resolutions": {
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
@@ -84,7 +83,7 @@
     "multicodec": "^2.0.0",
     "multihashes": "^3.0.1",
     "oasis-token-list": "2.0.1",
-    "oasis-uniswap-sdk": "1.0.12",
+    "oasis-uniswap-sdk": "1.0.24",
     "polished": "^3.3.2",
     "prettier": "^1.17.0",
     "qs": "^6.9.4",
